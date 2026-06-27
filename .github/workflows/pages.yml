@@ -1,22 +1,27 @@
-name: Deploy to GitHub Pages
+name: Build recipe index
+
+# Klassisches GitHub Pages liefert die Seite direkt aus dem main-Branch (Root) aus.
+# Dieser Workflow baut nur recipes/index.json neu, sobald sich Rezepte ändern,
+# und committet die aktualisierte Datei zurück. Ein eigener Deploy-Schritt ist
+# dadurch nicht nötig.
 
 on:
   push:
     branches: [main]
+    paths:
+      - "recipes/**"
+      - "scripts/build-index.mjs"
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
-# Nur ein Deploy gleichzeitig; laufende Deploys nicht abbrechen.
 concurrency:
-  group: pages
+  group: build-index
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-index:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,25 +35,14 @@ jobs:
       - name: Build recipe index
         run: node scripts/build-index.mjs
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-        with:
-          # Aktiviert GitHub Pages (Source: GitHub Actions) automatisch,
-          # falls es im Repo noch nicht eingeschaltet wurde.
-          enablement: true
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Commit updated index
+        run: |
+          if git diff --quiet -- recipes/index.json; then
+            echo "index.json unverändert – nichts zu committen."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add recipes/index.json
+            git commit -m "chore: Rezept-Index neu gebaut [skip ci]"
+            git push
+          fi

@@ -25,13 +25,20 @@ recipes/
 
 ## Einrichtung (einmalig)
 
-1. Diesen Branch nach `main` mergen (Pull Request).
-2. Im Repo **Settings → Pages** öffnen.
-3. Bei **Source** „**GitHub Actions**“ auswählen.
-4. Fertig – bei jedem Push auf `main` wird die Seite neu gebaut und veröffentlicht.
+Die Seite wird klassisch direkt aus dem `main`-Branch ausgeliefert – alle Dateien
+(inkl. der gebauten `recipes/index.json`) liegen bereits im Wurzelverzeichnis.
+
+1. Im Repo **Settings → Pages** öffnen.
+2. Unter **„Build and deployment“ → „Source“** **„Deploy from a branch“** wählen.
+3. Bei **Branch** `main` und Ordner `/ (root)` auswählen, dann **Save**.
+4. Nach ein bis zwei Minuten ist die Seite live.
 
 Die Seite ist danach erreichbar unter:
 `https://<dein-github-name>.github.io/meals/`
+
+Der mitgelieferte Workflow baut bei jeder Rezeptänderung automatisch
+`recipes/index.json` neu und committet die Datei zurück – ein separater
+Deploy-Schritt ist nicht nötig.
 
 ## Neues Rezept hinzufügen
 
