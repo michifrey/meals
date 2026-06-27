@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#2e7d5b" />
+  <title>Meals – Rezepte & Einkaufsliste</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍳</text></svg>" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="app-header__inner">
+      <a class="brand" href="#/rezepte">
+        <span class="brand__logo">🍳</span>
+        <span class="brand__name">Meals</span>
+      </a>
+      <nav class="main-nav">
+        <a href="#/rezepte" data-route="rezepte">Rezepte</a>
+        <a href="#/einkaufsliste" data-route="einkaufsliste">
+          Einkaufsliste
+          <span class="badge" id="cart-badge" hidden>0</span>
+        </a>
+        <a href="#/neu" data-route="neu">Neu / Import</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="view" class="view">
+    <!-- Views werden hier von app.js gerendert -->
+  </main>
+
+  <footer class="app-footer">
+    <p>
+      Statische Rezeptverwaltung auf GitHub Pages ·
+      <a id="repo-link" href="#" target="_blank" rel="noopener">Repository</a>
+    </p>
+  </footer>
+
+  <script src="assets/js/app.js" type="module"></script>
+</body>
+</html>

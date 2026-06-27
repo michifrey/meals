@@ -1,0 +1,30 @@
+{
+  "id": "spaghetti-carbonara",
+  "name": "Spaghetti Carbonara",
+  "description": "Der italienische Klassiker mit Ei, Pecorino und Guanciale – cremig ganz ohne Sahne.",
+  "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=800&q=80",
+  "emoji": "🍝",
+  "category": ["Hauptgericht"],
+  "tags": ["italienisch", "schnell", "Pasta"],
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Spaghetti" },
+    { "amount": 150, "unit": "g", "name": "Guanciale (oder Pancetta)" },
+    { "amount": 4, "unit": "", "name": "Eigelb" },
+    { "amount": 1, "unit": "", "name": "Ei" },
+    { "amount": 60, "unit": "g", "name": "Pecorino Romano, gerieben" },
+    { "amount": 1, "unit": "TL", "name": "schwarzer Pfeffer, frisch gemahlen" },
+    { "amount": null, "unit": "", "name": "Salz für das Nudelwasser" }
+  ],
+  "steps": [
+    "Spaghetti in reichlich gesalzenem Wasser al dente kochen. Eine Tasse Nudelwasser aufheben.",
+    "Guanciale in Würfel schneiden und in einer Pfanne ohne Öl knusprig auslassen.",
+    "Eigelb, Ei, geriebenen Pecorino und viel Pfeffer in einer Schüssel verrühren.",
+    "Die abgegossenen Nudeln zum Guanciale geben, Pfanne vom Herd nehmen.",
+    "Ei-Käse-Mischung unterrühren, mit etwas Nudelwasser zu einer cremigen Sauce binden.",
+    "Sofort mit extra Pecorino und Pfeffer servieren."
+  ],
+  "source": ""
+}

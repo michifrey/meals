@@ -1,0 +1,34 @@
+{
+  "id": "linsen-dal",
+  "name": "Rote Linsen Dal",
+  "description": "Cremiges, würziges Dal aus roten Linsen mit Kokosmilch und Tomaten – vegan und in 30 Minuten fertig.",
+  "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800&q=80",
+  "emoji": "🍛",
+  "category": ["Hauptgericht", "Vegan"],
+  "tags": ["indisch", "vegetarisch", "vegan", "gesund"],
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "ingredients": [
+    { "amount": 250, "unit": "g", "name": "rote Linsen" },
+    { "amount": 1, "unit": "", "name": "Zwiebel" },
+    { "amount": 2, "unit": "", "name": "Knoblauchzehen" },
+    { "amount": 1, "unit": "Stück", "name": "Ingwer (daumengroß)" },
+    { "amount": 400, "unit": "ml", "name": "Kokosmilch" },
+    { "amount": 400, "unit": "g", "name": "stückige Tomaten (Dose)" },
+    { "amount": 2, "unit": "TL", "name": "Currypulver" },
+    { "amount": 1, "unit": "TL", "name": "Kreuzkümmel, gemahlen" },
+    { "amount": 1, "unit": "TL", "name": "Kurkuma" },
+    { "amount": 500, "unit": "ml", "name": "Gemüsebrühe" },
+    { "amount": null, "unit": "", "name": "Salz, Pfeffer, frischer Koriander" }
+  ],
+  "steps": [
+    "Zwiebel, Knoblauch und Ingwer fein hacken und in etwas Öl glasig anbraten.",
+    "Gewürze zugeben und kurz mitrösten, bis es duftet.",
+    "Linsen, Tomaten, Kokosmilch und Brühe zugeben und aufkochen.",
+    "Bei mittlerer Hitze ca. 20 Minuten köcheln, bis die Linsen weich sind. Gelegentlich umrühren.",
+    "Mit Salz und Pfeffer abschmecken, mit Koriander bestreuen.",
+    "Mit Reis oder Naan servieren."
+  ],
+  "source": ""
+}

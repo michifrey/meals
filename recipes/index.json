@@ -1,0 +1,223 @@
+[
+  {
+    "id": "ofen-gemuese-feta",
+    "name": "Ofengemüse mit Feta",
+    "description": "Buntes Gemüse vom Blech mit cremigem Feta – einfach, gesund und alles in einem Durchgang.",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&q=80",
+    "emoji": "🥘",
+    "category": [
+      "Hauptgericht",
+      "Vegetarisch"
+    ],
+    "tags": [
+      "vegetarisch",
+      "Blech",
+      "gesund",
+      "einfach"
+    ],
+    "servings": 3,
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "Zucchini"
+      },
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "amount": 1,
+        "unit": "",
+        "name": "rote Zwiebel"
+      },
+      {
+        "amount": 250,
+        "unit": "g",
+        "name": "Cherrytomaten"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "amount": 3,
+        "unit": "EL",
+        "name": "Olivenöl"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "getrockneter Oregano"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz, Pfeffer"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200 °C Ober-/Unterhitze vorheizen.",
+      "Gemüse in mundgerechte Stücke schneiden und auf einem Blech verteilen.",
+      "Mit Olivenöl, Oregano, Salz und Pfeffer vermengen.",
+      "Den Feta in die Mitte legen oder grob zerbröseln darüber verteilen.",
+      "Ca. 30 Minuten backen, bis das Gemüse weich und leicht gebräunt ist.",
+      "Mit Brot oder Couscous servieren."
+    ],
+    "source": ""
+  },
+  {
+    "id": "linsen-dal",
+    "name": "Rote Linsen Dal",
+    "description": "Cremiges, würziges Dal aus roten Linsen mit Kokosmilch und Tomaten – vegan und in 30 Minuten fertig.",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800&q=80",
+    "emoji": "🍛",
+    "category": [
+      "Hauptgericht",
+      "Vegan"
+    ],
+    "tags": [
+      "indisch",
+      "vegetarisch",
+      "vegan",
+      "gesund"
+    ],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "ingredients": [
+      {
+        "amount": 250,
+        "unit": "g",
+        "name": "rote Linsen"
+      },
+      {
+        "amount": 1,
+        "unit": "",
+        "name": "Zwiebel"
+      },
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "Knoblauchzehen"
+      },
+      {
+        "amount": 1,
+        "unit": "Stück",
+        "name": "Ingwer (daumengroß)"
+      },
+      {
+        "amount": 400,
+        "unit": "ml",
+        "name": "Kokosmilch"
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "stückige Tomaten (Dose)"
+      },
+      {
+        "amount": 2,
+        "unit": "TL",
+        "name": "Currypulver"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "Kreuzkümmel, gemahlen"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "Kurkuma"
+      },
+      {
+        "amount": 500,
+        "unit": "ml",
+        "name": "Gemüsebrühe"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz, Pfeffer, frischer Koriander"
+      }
+    ],
+    "steps": [
+      "Zwiebel, Knoblauch und Ingwer fein hacken und in etwas Öl glasig anbraten.",
+      "Gewürze zugeben und kurz mitrösten, bis es duftet.",
+      "Linsen, Tomaten, Kokosmilch und Brühe zugeben und aufkochen.",
+      "Bei mittlerer Hitze ca. 20 Minuten köcheln, bis die Linsen weich sind. Gelegentlich umrühren.",
+      "Mit Salz und Pfeffer abschmecken, mit Koriander bestreuen.",
+      "Mit Reis oder Naan servieren."
+    ],
+    "source": ""
+  },
+  {
+    "id": "spaghetti-carbonara",
+    "name": "Spaghetti Carbonara",
+    "description": "Der italienische Klassiker mit Ei, Pecorino und Guanciale – cremig ganz ohne Sahne.",
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=800&q=80",
+    "emoji": "🍝",
+    "category": [
+      "Hauptgericht"
+    ],
+    "tags": [
+      "italienisch",
+      "schnell",
+      "Pasta"
+    ],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "ingredients": [
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "Spaghetti"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Guanciale (oder Pancetta)"
+      },
+      {
+        "amount": 4,
+        "unit": "",
+        "name": "Eigelb"
+      },
+      {
+        "amount": 1,
+        "unit": "",
+        "name": "Ei"
+      },
+      {
+        "amount": 60,
+        "unit": "g",
+        "name": "Pecorino Romano, gerieben"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "schwarzer Pfeffer, frisch gemahlen"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz für das Nudelwasser"
+      }
+    ],
+    "steps": [
+      "Spaghetti in reichlich gesalzenem Wasser al dente kochen. Eine Tasse Nudelwasser aufheben.",
+      "Guanciale in Würfel schneiden und in einer Pfanne ohne Öl knusprig auslassen.",
+      "Eigelb, Ei, geriebenen Pecorino und viel Pfeffer in einer Schüssel verrühren.",
+      "Die abgegossenen Nudeln zum Guanciale geben, Pfanne vom Herd nehmen.",
+      "Ei-Käse-Mischung unterrühren, mit etwas Nudelwasser zu einer cremigen Sauce binden.",
+      "Sofort mit extra Pecorino und Pfeffer servieren."
+    ],
+    "source": ""
+  }
+]
