@@ -1,0 +1,31 @@
+{
+  "id": "pizza-salami-diavola",
+  "name": "Pizza Salami (Diavola)",
+  "description": "Würzige Pizza mit scharfer Salami und Chili. Auf Wunsch milder, wenn man die Peperoncini weglässt.",
+  "image": "",
+  "emoji": "🍕",
+  "category": ["Pizza", "Hauptgericht"],
+  "tags": ["italienisch", "scharf", "Pizzabelag"],
+  "servings": 2,
+  "prepTime": "15 min",
+  "cookTime": "7 min",
+  "ingredients": [
+    { "amount": 2, "unit": "", "name": "Pizzateiglinge (à ca. 280 g)" },
+    { "amount": 200, "unit": "g", "name": "passierte Tomaten (am besten San Marzano)" },
+    { "amount": 250, "unit": "g", "name": "Mozzarella (Fior di Latte), abgetropft" },
+    { "amount": 120, "unit": "g", "name": "scharfe Salami (z. B. Salame piccante), dünn geschnitten" },
+    { "amount": 1, "unit": "", "name": "rote Peperoncino, in Ringen (optional)" },
+    { "amount": 2, "unit": "EL", "name": "Olivenöl extra vergine" },
+    { "amount": null, "unit": "", "name": "Salz, frischer Oregano" }
+  ],
+  "steps": [
+    "Ofen mit Pizzastein/-stahl auf höchste Stufe vorheizen (250–300 °C, mind. 30 Min.).",
+    "Passierte Tomaten mit einer Prise Salz und etwas Olivenöl verrühren.",
+    "Teigling auf bemehlter Fläche zu einem runden Boden ausziehen, Rand dick lassen.",
+    "Dünn mit Tomatensauce bestreichen, Rand frei lassen.",
+    "Mozzarella und Salami verteilen, nach Geschmack Peperoncino-Ringe daraufgeben.",
+    "5–7 Minuten backen, bis der Rand goldbraun und die Salami knusprig ist.",
+    "Mit etwas Olivenöl und Oregano beträufeln und sofort servieren."
+  ],
+  "source": ""
+}

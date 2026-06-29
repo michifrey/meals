@@ -1,0 +1,41 @@
+{
+  "id": "butter-chicken",
+  "name": "Butter Chicken (Murgh Makhani)",
+  "description": "Cremiges, mild-würziges Hähnchen in Tomaten-Butter-Sauce – der indische Klassiker. Am besten mit Reis und Naan.",
+  "image": "",
+  "emoji": "🍛",
+  "category": ["Hauptgericht"],
+  "tags": ["indisch", "Hähnchen", "cremig"],
+  "servings": 4,
+  "prepTime": "25 min",
+  "cookTime": "30 min",
+  "ingredients": [
+    { "amount": 700, "unit": "g", "name": "Hähnchenbrust, in mundgerechten Stücken" },
+    { "amount": 150, "unit": "g", "name": "Joghurt (für die Marinade)" },
+    { "amount": 2, "unit": "EL", "name": "Zitronensaft" },
+    { "amount": 2, "unit": "TL", "name": "Garam Masala" },
+    { "amount": 1, "unit": "TL", "name": "Kurkuma" },
+    { "amount": 1, "unit": "TL", "name": "Kreuzkümmel, gemahlen" },
+    { "amount": 1, "unit": "TL", "name": "Paprikapulver edelsüß" },
+    { "amount": 4, "unit": "", "name": "Knoblauchzehen, gerieben" },
+    { "amount": 1, "unit": "Stück", "name": "Ingwer (daumengroß), gerieben" },
+    { "amount": 50, "unit": "g", "name": "Butter" },
+    { "amount": 1, "unit": "", "name": "große Zwiebel, fein gewürfelt" },
+    { "amount": 400, "unit": "g", "name": "passierte Tomaten" },
+    { "amount": 150, "unit": "ml", "name": "Sahne" },
+    { "amount": 2, "unit": "EL", "name": "Tomatenmark" },
+    { "amount": 1, "unit": "TL", "name": "Zucker" },
+    { "amount": null, "unit": "", "name": "Salz, frischer Koriander" }
+  ],
+  "steps": [
+    "Hähnchen mit Joghurt, Zitronensaft, 1 TL Garam Masala, Kurkuma, Kreuzkümmel, Paprika sowie der Hälfte von Knoblauch und Ingwer vermengen. Mind. 30 Min. (gern länger) marinieren.",
+    "Mariniertes Hähnchen in einer heißen Pfanne mit etwas Öl rundum kräftig anbraten, bis es fast gar ist. Herausnehmen und beiseitestellen.",
+    "Butter in der Pfanne schmelzen, Zwiebel darin glasig dünsten.",
+    "Restlichen Knoblauch und Ingwer zugeben, kurz mitbraten, dann Tomatenmark und das übrige Garam Masala einrühren.",
+    "Passierte Tomaten und Zucker zugeben, 10–15 Minuten sanft einköcheln lassen.",
+    "Sauce nach Wunsch fein pürieren, dann Sahne einrühren.",
+    "Hähnchen zurück in die Sauce geben und 5 Minuten fertig garen. Mit Salz abschmecken.",
+    "Mit frischem Koriander bestreuen und mit Reis und Naan servieren."
+  ],
+  "source": ""
+}

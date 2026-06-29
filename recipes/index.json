@@ -61,6 +61,117 @@
     "source": "https://www.pizzastunde.com/8-stunden-pizzateig-perfekt-fuer-spontane-pizza/"
   },
   {
+    "id": "butter-chicken",
+    "name": "Butter Chicken (Murgh Makhani)",
+    "description": "Cremiges, mild-würziges Hähnchen in Tomaten-Butter-Sauce – der indische Klassiker. Am besten mit Reis und Naan.",
+    "image": "",
+    "emoji": "🍛",
+    "category": [
+      "Hauptgericht"
+    ],
+    "tags": [
+      "indisch",
+      "Hähnchen",
+      "cremig"
+    ],
+    "servings": 4,
+    "prepTime": "25 min",
+    "cookTime": "30 min",
+    "ingredients": [
+      {
+        "amount": 700,
+        "unit": "g",
+        "name": "Hähnchenbrust, in mundgerechten Stücken"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Joghurt (für die Marinade)"
+      },
+      {
+        "amount": 2,
+        "unit": "EL",
+        "name": "Zitronensaft"
+      },
+      {
+        "amount": 2,
+        "unit": "TL",
+        "name": "Garam Masala"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "Kurkuma"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "Kreuzkümmel, gemahlen"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "Paprikapulver edelsüß"
+      },
+      {
+        "amount": 4,
+        "unit": "",
+        "name": "Knoblauchzehen, gerieben"
+      },
+      {
+        "amount": 1,
+        "unit": "Stück",
+        "name": "Ingwer (daumengroß), gerieben"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "Butter"
+      },
+      {
+        "amount": 1,
+        "unit": "",
+        "name": "große Zwiebel, fein gewürfelt"
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "passierte Tomaten"
+      },
+      {
+        "amount": 150,
+        "unit": "ml",
+        "name": "Sahne"
+      },
+      {
+        "amount": 2,
+        "unit": "EL",
+        "name": "Tomatenmark"
+      },
+      {
+        "amount": 1,
+        "unit": "TL",
+        "name": "Zucker"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz, frischer Koriander"
+      }
+    ],
+    "steps": [
+      "Hähnchen mit Joghurt, Zitronensaft, 1 TL Garam Masala, Kurkuma, Kreuzkümmel, Paprika sowie der Hälfte von Knoblauch und Ingwer vermengen. Mind. 30 Min. (gern länger) marinieren.",
+      "Mariniertes Hähnchen in einer heißen Pfanne mit etwas Öl rundum kräftig anbraten, bis es fast gar ist. Herausnehmen und beiseitestellen.",
+      "Butter in der Pfanne schmelzen, Zwiebel darin glasig dünsten.",
+      "Restlichen Knoblauch und Ingwer zugeben, kurz mitbraten, dann Tomatenmark und das übrige Garam Masala einrühren.",
+      "Passierte Tomaten und Zucker zugeben, 10–15 Minuten sanft einköcheln lassen.",
+      "Sauce nach Wunsch fein pürieren, dann Sahne einrühren.",
+      "Hähnchen zurück in die Sauce geben und 5 Minuten fertig garen. Mit Salz abschmecken.",
+      "Mit frischem Koriander bestreuen und mit Reis und Naan servieren."
+    ],
+    "source": ""
+  },
+  {
     "id": "ofen-gemuese-feta",
     "name": "Ofengemüse mit Feta",
     "description": "Buntes Gemüse vom Blech mit cremigem Feta – einfach, gesund und alles in einem Durchgang.",
@@ -128,6 +239,133 @@
       "Den Feta in die Mitte legen oder grob zerbröseln darüber verteilen.",
       "Ca. 30 Minuten backen, bis das Gemüse weich und leicht gebräunt ist.",
       "Mit Brot oder Couscous servieren."
+    ],
+    "source": ""
+  },
+  {
+    "id": "pizza-margherita",
+    "name": "Pizza Margherita",
+    "description": "Der Klassiker aus Neapel: Tomate, Mozzarella, Basilikum, Olivenöl. Einfach, aber nur mit gutem Teig und heißem Ofen wirklich gut.",
+    "image": "",
+    "emoji": "🍕",
+    "category": [
+      "Pizza",
+      "Hauptgericht"
+    ],
+    "tags": [
+      "italienisch",
+      "vegetarisch",
+      "Pizzabelag"
+    ],
+    "servings": 2,
+    "prepTime": "15 min",
+    "cookTime": "7 min",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "Pizzateiglinge (à ca. 280 g)"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "passierte Tomaten (am besten San Marzano)"
+      },
+      {
+        "amount": 250,
+        "unit": "g",
+        "name": "Mozzarella (Fior di Latte), abgetropft"
+      },
+      {
+        "amount": 1,
+        "unit": "Handvoll",
+        "name": "frisches Basilikum"
+      },
+      {
+        "amount": 2,
+        "unit": "EL",
+        "name": "Olivenöl extra vergine"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz"
+      }
+    ],
+    "steps": [
+      "Ofen mit Pizzastein/-stahl auf höchste Stufe vorheizen (250–300 °C, mind. 30 Min.).",
+      "Passierte Tomaten mit einer Prise Salz und etwas Olivenöl verrühren.",
+      "Mozzarella in Stücke zupfen und kurz abtropfen lassen, damit die Pizza nicht wässrig wird.",
+      "Teigling auf bemehlter Fläche vorsichtig zu einem runden Boden ausziehen (Rand dick lassen).",
+      "Dünn mit Tomatensauce bestreichen, dabei den Rand frei lassen.",
+      "5–7 Minuten backen, bis der Rand aufgeht. Nach der Hälfte den Mozzarella verteilen.",
+      "Aus dem Ofen nehmen, mit frischem Basilikum und einem Spritzer Olivenöl belegen. Sofort servieren."
+    ],
+    "source": ""
+  },
+  {
+    "id": "pizza-salami-diavola",
+    "name": "Pizza Salami (Diavola)",
+    "description": "Würzige Pizza mit scharfer Salami und Chili. Auf Wunsch milder, wenn man die Peperoncini weglässt.",
+    "image": "",
+    "emoji": "🍕",
+    "category": [
+      "Pizza",
+      "Hauptgericht"
+    ],
+    "tags": [
+      "italienisch",
+      "scharf",
+      "Pizzabelag"
+    ],
+    "servings": 2,
+    "prepTime": "15 min",
+    "cookTime": "7 min",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "Pizzateiglinge (à ca. 280 g)"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "passierte Tomaten (am besten San Marzano)"
+      },
+      {
+        "amount": 250,
+        "unit": "g",
+        "name": "Mozzarella (Fior di Latte), abgetropft"
+      },
+      {
+        "amount": 120,
+        "unit": "g",
+        "name": "scharfe Salami (z. B. Salame piccante), dünn geschnitten"
+      },
+      {
+        "amount": 1,
+        "unit": "",
+        "name": "rote Peperoncino, in Ringen (optional)"
+      },
+      {
+        "amount": 2,
+        "unit": "EL",
+        "name": "Olivenöl extra vergine"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz, frischer Oregano"
+      }
+    ],
+    "steps": [
+      "Ofen mit Pizzastein/-stahl auf höchste Stufe vorheizen (250–300 °C, mind. 30 Min.).",
+      "Passierte Tomaten mit einer Prise Salz und etwas Olivenöl verrühren.",
+      "Teigling auf bemehlter Fläche zu einem runden Boden ausziehen, Rand dick lassen.",
+      "Dünn mit Tomatensauce bestreichen, Rand frei lassen.",
+      "Mozzarella und Salami verteilen, nach Geschmack Peperoncino-Ringe daraufgeben.",
+      "5–7 Minuten backen, bis der Rand goldbraun und die Salami knusprig ist.",
+      "Mit etwas Olivenöl und Oregano beträufeln und sofort servieren."
     ],
     "source": ""
   },

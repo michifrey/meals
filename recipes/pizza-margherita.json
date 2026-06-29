@@ -1,0 +1,30 @@
+{
+  "id": "pizza-margherita",
+  "name": "Pizza Margherita",
+  "description": "Der Klassiker aus Neapel: Tomate, Mozzarella, Basilikum, Olivenöl. Einfach, aber nur mit gutem Teig und heißem Ofen wirklich gut.",
+  "image": "",
+  "emoji": "🍕",
+  "category": ["Pizza", "Hauptgericht"],
+  "tags": ["italienisch", "vegetarisch", "Pizzabelag"],
+  "servings": 2,
+  "prepTime": "15 min",
+  "cookTime": "7 min",
+  "ingredients": [
+    { "amount": 2, "unit": "", "name": "Pizzateiglinge (à ca. 280 g)" },
+    { "amount": 200, "unit": "g", "name": "passierte Tomaten (am besten San Marzano)" },
+    { "amount": 250, "unit": "g", "name": "Mozzarella (Fior di Latte), abgetropft" },
+    { "amount": 1, "unit": "Handvoll", "name": "frisches Basilikum" },
+    { "amount": 2, "unit": "EL", "name": "Olivenöl extra vergine" },
+    { "amount": null, "unit": "", "name": "Salz" }
+  ],
+  "steps": [
+    "Ofen mit Pizzastein/-stahl auf höchste Stufe vorheizen (250–300 °C, mind. 30 Min.).",
+    "Passierte Tomaten mit einer Prise Salz und etwas Olivenöl verrühren.",
+    "Mozzarella in Stücke zupfen und kurz abtropfen lassen, damit die Pizza nicht wässrig wird.",
+    "Teigling auf bemehlter Fläche vorsichtig zu einem runden Boden ausziehen (Rand dick lassen).",
+    "Dünn mit Tomatensauce bestreichen, dabei den Rand frei lassen.",
+    "5–7 Minuten backen, bis der Rand aufgeht. Nach der Hälfte den Mozzarella verteilen.",
+    "Aus dem Ofen nehmen, mit frischem Basilikum und einem Spritzer Olivenöl belegen. Sofort servieren."
+  ],
+  "source": ""
+}
