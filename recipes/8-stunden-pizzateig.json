@@ -1,0 +1,56 @@
+{
+  "id": "8-stunden-pizzateig",
+  "name": "8-Stunden-Pizzateig (für 6 Pizzen à 280 g)",
+  "description": "Dieses Rezept ist perfekt, wenn’s mal schneller gehen muss: Der 8-Stunden-Pizzateig bringt dir eine herrlich luftige und aromatische Pizza – ganz ohne tagelange Wartezeit. Ideal für spontane Pizzaabende mit Familie & Freunden 🍕✨",
+  "image": "https://www.pizzastunde.com/wp-content/uploads/2025/04/8_Stunden_Pizzateig_Header.jpeg",
+  "emoji": "🍕",
+  "category": ["Pizza"],
+  "tags": ["Pizzateig", "italienisch"],
+  "servings": 6,
+  "prepTime": "30 min",
+  "cookTime": "8 h Gehzeit",
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "kg",
+      "name": "Pizzamehl (z. B. Molino Dallagiovanna Sofia oder Caputo Doppio Zero)"
+    },
+    {
+      "amount": 590,
+      "unit": "g",
+      "name": "Wasser (kalt)"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "lauwarmes Wasser (zum Auflösen der Germ)"
+    },
+    {
+      "amount": 27,
+      "unit": "g",
+      "name": "Meersalz (fein)"
+    },
+    {
+      "amount": 4,
+      "unit": "g",
+      "name": "frische Germ / Hefe (oder 1,4 g Trockenhefe)"
+    },
+    {
+      "amount": 2,
+      "unit": "g",
+      "name": "Honig oder Malz (optional)"
+    }
+  ],
+  "steps": [
+    "Salz im Wasser auflösen → 590 g Wasser + 27 g Salz in einer Schüssel vermengen",
+    "200 g Mehl einrühren, gut vermischen",
+    "Germ in 30 g lauwarmem Wasser (mit Honig/Malz) auflösen, dann zugeben",
+    "Restliches Mehl nach und nach einarbeiten → homogener Teig",
+    "Von Hand 8–10 Minuten kneten, bis der Teig glatt ist",
+    "30 Min. ruhen, dann Stretch & Fold",
+    "Nach 30 Min. nochmal Stretch & Fold",
+    "In 6 Teiglinge teilen, in Box legen",
+    "6 Stunden Stückgare bei Raumtemperatur (ca. 20 °C)"
+  ],
+  "source": "https://www.pizzastunde.com/8-stunden-pizzateig-perfekt-fuer-spontane-pizza/"
+}
