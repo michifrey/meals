@@ -1,0 +1,36 @@
+{
+  "id": "naan",
+  "name": "Naan-Brot",
+  "description": "Weiches, leicht blasiges indisches Fladenbrot aus der Pfanne – mit Joghurt im Teig. Perfekt zu Butter Chicken oder Dal.",
+  "image": "",
+  "emoji": "🫓",
+  "category": ["Beilage", "Brot"],
+  "tags": ["indisch", "vegetarisch", "Pfanne"],
+  "servings": 6,
+  "prepTime": "20 min",
+  "cookTime": "15 min",
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Weizenmehl (Type 405 oder 550)" },
+    { "amount": 1, "unit": "TL", "name": "Trockenhefe" },
+    { "amount": 1, "unit": "TL", "name": "Zucker" },
+    { "amount": 1, "unit": "TL", "name": "Salz" },
+    { "amount": 0.5, "unit": "TL", "name": "Backpulver" },
+    { "amount": 120, "unit": "g", "name": "Naturjoghurt" },
+    { "amount": 120, "unit": "ml", "name": "lauwarmes Wasser" },
+    { "amount": 2, "unit": "EL", "name": "Öl oder zerlassene Butter" },
+    { "amount": 40, "unit": "g", "name": "Butter (zum Bestreichen)" },
+    { "amount": 2, "unit": "", "name": "Knoblauchzehen, fein gehackt (optional)" },
+    { "amount": null, "unit": "", "name": "frischer Koriander (optional)" }
+  ],
+  "steps": [
+    "Hefe und Zucker in lauwarmem Wasser auflösen und 5 Minuten stehen lassen, bis es schäumt.",
+    "Mehl, Salz und Backpulver mischen. Hefewasser, Joghurt und Öl zugeben.",
+    "Zu einem weichen, geschmeidigen Teig kneten (ca. 8 Minuten). Abgedeckt 1 Stunde gehen lassen, bis er sich verdoppelt.",
+    "Teig in 6 Stücke teilen und jeweils oval/tropfenförmig ausrollen (ca. 0,5 cm dick).",
+    "Eine Pfanne (am besten Gusseisen) stark erhitzen. Naan ohne Öl hineinlegen.",
+    "Backen, bis sich oben Blasen bilden (ca. 1–2 Min.), dann wenden und die andere Seite goldbraun backen.",
+    "Butter mit gehacktem Knoblauch verrühren, die heißen Naan damit bestreichen.",
+    "Mit Koriander bestreuen und warm servieren."
+  ],
+  "source": ""
+}
